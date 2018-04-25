@@ -1,0 +1,10 @@
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\bin\Release\netcoreapp2.0\GitHubUserLookupASP.deps.json
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\bin\Release\netcoreapp2.0\GitHubUserLookupASP.runtimeconfig.json
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\bin\Release\netcoreapp2.0\GitHubUserLookupASP.runtimeconfig.dev.json
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\bin\Release\netcoreapp2.0\GitHubUserLookupASP.dll
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\bin\Release\netcoreapp2.0\GitHubUserLookupASP.pdb
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\obj\Release\netcoreapp2.0\GitHubUserLookupASP.csproj.CoreCompileInputs.cache
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\obj\Release\netcoreapp2.0\GitHubUserLookupASP.AssemblyInfoInputs.cache
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\obj\Release\netcoreapp2.0\GitHubUserLookupASP.AssemblyInfo.cs
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\obj\Release\netcoreapp2.0\GitHubUserLookupASP.dll
+D:\Programming\Web\GitHubUserLookupASP\GitHubUserLookupASP\obj\Release\netcoreapp2.0\GitHubUserLookupASP.pdb
